@@ -1,14 +1,14 @@
 {
     "bot-account":{ 
-        "username": "popusk",
+        "username": "thesage",
         "password": "",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "localhost",
+        "ip": "olilogout.aternos.me",
         "port": 25565,
-        "version": "1.16.4"
+        "version": "1.17.1"
     },
 
     "position":{
